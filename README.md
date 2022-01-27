@@ -1,13 +1,10 @@
-_🦌 网页小游戏 🥛_
-
-</div>
-
-
 ## 简介
 
 改编来自：吃掉小鹿乃
 
-[线上版本](https://xingye.me/game/eatkano/index.php)
+图片来自于网络
+
+[原版线上版本](https://xingye.me/game/eatkano/index.php)
 |
 [Github Page](https://arcxingye.github.io/EatKano/index.html)
 
